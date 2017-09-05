@@ -1,4 +1,4 @@
-.fixed .main-header {
+main-header {
 display: none
 }
 
@@ -6,7 +6,7 @@ ul.sidebar-menu {
     display: none;
 }
 
-.main-footer {
+main-footer {
     display: none;
 }
 
