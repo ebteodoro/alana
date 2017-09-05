@@ -1,0 +1,19 @@
+.fixed .main-header {
+display: none
+}
+
+ul.sidebar-menu {
+    display: none;
+}
+
+.main-footer {
+    display: none;
+}
+
+section.content-header {
+    display: none;
+}
+
+ol.breadcrumb {
+    display: none;
+}
